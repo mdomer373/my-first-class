@@ -1,3 +1,4 @@
 # my-first-class
-first git Repo
-Author - mohd omer
+This is my first git Repo.
+<br>
+Author - mohd omer.
